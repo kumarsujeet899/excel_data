@@ -1,0 +1,33 @@
+Order ID,Order Date,Order Quantity,Sales,Ship Mode,Profit,Unit Price,Customer Name,Customer Segment,Product Category
+3,13-10-2010,6,261.54,Regular Air,-213.25,38.94,Muhammed MacIntyre,Small Business,Office Supplies
+6,20-02-2012,2,6.93,Regular Air,-4.64,2.08,Ruben Dartt,Corporate,Office Supplies
+32,15-07-2011,26,2808.08,Regular Air,1054.82,107.53,Liz Pelletier,Corporate,Furniture
+32,15-07-2011,24,1761.4,Delivery Truck,-1748.56,70.89,Liz Pelletier,Corporate,Furniture
+32,15-07-2011,23,160.2335,Regular Air,-85.13,7.99,Liz Pelletier,Corporate,Technology
+32,15-07-2011,15,140.56,Regular Air,-128.38,8.46,Liz Pelletier,Corporate,Technology
+35,22-10-2011,30,288.56,Regular Air,60.72,9.11,Julie Creighton,Corporate,Office Supplies
+35,22-10-2011,14,1892.848,Regular Air,48.99,155.99,Julie Creighton,Corporate,Technology
+36,02-11-2011,46,2484.7455,Regular Air,657.48,65.99,Sample Company A,Home Office,Technology
+65,17-03-2011,32,3812.73,Regular Air,1470.3,115.79,Tamara Dahlen,Corporate,Technology
+32,15-07-2008,26,,Regular Air,,107.53,Liz Pelletier,Corporate,Furniture
+32,15-07-2008,24,,Delivery Truck,,70.89,Liz Pelletier,Corporate,Furniture
+32,15-07-2008,23,,Regular Air,,7.99,Liz Pelletier,Corporate,Technology
+32,15-07-2008,15,,Regular Air,,8.46,Liz Pelletier,Corporate,Technology
+35,22-10-2008,30,,Regular Air,,9.11,Julie Creighton,Corporate,Office Supplies
+35,22-10-2008,14,,Regular Air,,155.99,Julie Creighton,Corporate,Technology
+36,22-10-2008,46,,Regular Air,,65.99,Sample Company A,Home Office,Technology
+65,22-10-2008,32,,Regular Air,,115.79,Tamara Dahlen,Corporate,Technology
+66,19-01-2009,41,108.15,Regular Air,7.57,2.88,Arthur Gainer,Consumer,Office Supplies
+69,03-06-2009,42,1186.06,Regular Air,511.69,30.93,Jonathan Doherty,Corporate,Furniture
+69,03-06-2009,28,51.53,Express Air,0.35,1.68,Jonathan Doherty,Corporate,Office Supplies
+70,17-12-2010,48,90.05,Regular Air,-107,1.86,Helen Wasserman,Home Office,Office Supplies
+70,17-12-2010,46,7804.53,Regular Air,2057.17,205.99,Helen Wasserman,Home Office,Technology
+96,16-04-2009,37,4158.1235,Regular Air,1228.89,125.99,Keith Dawkins,Home Office,Technology
+97,28-01-2010,26,75.57,Regular Air,28.24,2.89,Craig Yedwab,Consumer,Office Supplies
+129,18-11-2012,4,32.72,Regular Air,-22.59,6.48,Pauline Chand,Corporate,Office Supplies
+130,07-05-2012,3,461.89,Express Air,-309.82,150.98,Roy Collins,Corporate,Technology
+130,07-05-2012,29,575.11,Regular Air,71.75,18.97,Roy Collins,Corporate,Office Supplies
+130,07-05-2012,23,236.46,Regular Air,-134.31,9.71,Roy Collins,Corporate,Office Supplies
+132,10-06-2010,27,192.814,Regular Air,-86.2,7.99,Emily Phan,Consumer,Technology
+132,10-06-2010,30,4011.65,Delivery Truck,-603.8,130.98,Emily Phan,Consumer,Furniture
+134,30-04-2012,11,1132.6,Regular Air,-310.21,95.99,Michael Dominguez,Home Office,Office Supplies
