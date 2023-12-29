@@ -1,0 +1,8 @@
+Order ID	,Order Date	,Order Quantity	Sales	,Ship Mode	,Profit	Unit Price	,Customer Name	,Customer Segment	,Product Category
+3	,13-10-2010	,6	,261.54	Regular Air	,-213.25	,38.94	,Muhammed MacIntyre	,Small Business	,Office Supplies
+6	,20-02-2012	,2	,6.93	Regular Air	,-4.64	2.08	,Ruben Dartt	,Corporate	,Office Supplies
+32	,15-07-2011	,26	,2808.08	,Regular Air	,1054.82	,107.53	,Liz Pelletier	,Corporate	,Furniture
+
+
+
+
